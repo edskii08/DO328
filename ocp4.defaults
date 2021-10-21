@@ -1,0 +1,8 @@
+RHT_OCP4_API=https://api.ocp4.example.com:6443
+RHT_OCP4_WEB_CONSOLE=https://console-openshift-console.apps.ocp4.example.com
+RHT_OCP4_WILDCARD_DOMAIN=apps.ocp4.example.com
+RHT_OCP4_DEV_USER=developer
+RHT_OCP4_DEV_PASSWORD=redhat
+RHT_OCP4_ADMIN_USER=admin
+RHT_OCP4_ADMIN_PASSWORD=redhat
+RHT_OCP4_QUAY_USER=
